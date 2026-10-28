@@ -24,6 +24,12 @@ Skilled in SQL, Python, Excel, BI Tools, and Machine Learning, with hands-on exp
 
 ## 📊 Featured Projects
 
-Data Enthusiast with a Background in Statistics
-Passionate about transforming raw data into actionable insights.
-Skilled in SQL, Python, Excel, BI Tools, and Machine Learning, with hands-on experience from real projects and business cases.
+# What Actually Makes a Customer Spend More?
+
+| Category | Details |
+|---|---|
+| **Context** | Identify factors associated with annual customer spending to improve campaign decisions. |
+| **Focus** | Correlation analysis, multiple linear regression, and multicollinearity testing. |
+| **Tools** | Pearson Correlation, Linear Regression, VIF, Hypothesis Testing, OBIPR. |
+| **Key Output** | Adjusted R² = 0.927 (n = 299); session time was the strongest positive predictor (β = 0.42). |
+| **Business Recommendations** | Reduce bounce rate, optimize promotions, introduce tiered loyalty, and increase session time; validate through A/B testing. |
