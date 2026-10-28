@@ -24,7 +24,7 @@ Skilled in SQL, Python, Excel, BI Tools, and Machine Learning, with hands-on exp
 
 ## 📊 Featured Projects
 
-- # What Actually Makes a Customer Spend More?
+- # [What-Actually-Makes-a-Customer-Spend-More?](https://github.com/Almartdiansyah/What-Actually-Makes-a-Customer-Spend-More)--
 
 | Category | Details |
 |---|---|
