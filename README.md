@@ -1,9 +1,8 @@
 ## Hi there, I'm Sainuddin Almartdiansyah 👋
 
-Data Enthusiast with a Background in Statistics
+Data Enthusiast with a Background in Statistics.
 Passionate about transforming raw data into actionable insights.
 Skilled in SQL, Python, Excel, BI Tools, and Machine Learning, with hands-on experience from real projects and business cases.
----
 
 ## 🛠️ Skills & Tools
 
@@ -24,3 +23,7 @@ Skilled in SQL, Python, Excel, BI Tools, and Machine Learning, with hands-on exp
 ---
 
 ## 📊 Featured Projects
+
+Data Enthusiast with a Background in Statistics
+Passionate about transforming raw data into actionable insights.
+Skilled in SQL, Python, Excel, BI Tools, and Machine Learning, with hands-on experience from real projects and business cases.
