@@ -24,7 +24,7 @@ Skilled in SQL, Python, Excel, BI Tools, and Machine Learning, with hands-on exp
 
 ## 📊 Featured Projects
 
-# What Actually Makes a Customer Spend More?
+- # What Actually Makes a Customer Spend More?
 
 | Category | Details |
 |---|---|
@@ -33,3 +33,12 @@ Skilled in SQL, Python, Excel, BI Tools, and Machine Learning, with hands-on exp
 | **Tools** | Pearson Correlation, Linear Regression, VIF, Hypothesis Testing, OBIPR. |
 | **Key Output** | Adjusted R² = 0.927 (n = 299); session time was the strongest positive predictor (β = 0.42). |
 | **Business Recommendations** | Reduce bounce rate, optimize promotions, introduce tiered loyalty, and increase session time; validate through A/B testing. |
+
+- # Business Performance Analysis: Diagnosing Corporate Profit Decline
+
+| Category | Details |
+|---|---|
+| **Context** | Corporate sales increased by 16.8%, while profit declined by 13.6% in 2022. |
+| **Goal** | Identify the key drivers of profit erosion and support a target profit margin of 18%. |
+| **Process** | KPI analysis, Pareto analysis, MECE issue tree, hypothesis testing, and prioritization. |
+| **Key Output** | Quantified the profitability gap and developed a prioritized investigation and action plan. |
